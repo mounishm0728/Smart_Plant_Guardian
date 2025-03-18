@@ -1,0 +1,5 @@
+Smart-Plant-Guardian/
+│
+├── Smart_Plant_Guardian.ino  # Main Arduino code
+├── README.md                 # Project documentation
+└── libraries/                # Required libraries (if any)
